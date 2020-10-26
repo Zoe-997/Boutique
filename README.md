@@ -1,2 +1,2 @@
 # Boutique
-This repository is used to update Biolife theme of Aloteam.
+This repository is used to update Boutique theme of Aloteam.
